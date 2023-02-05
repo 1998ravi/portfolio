@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=STIX+Two+Text&display=swap');
+body{
+
+width:100%;
+font-family: 'STIX Two Text', serif;
+
+}
+.navbar{
+postition:fixed;
+top:0;
+  background-image: linear-gradient(to right,rgb(156, 156, 194),rgb(218, 157, 218));
+  width: 100%;
+}
+.jk{
+  background-image: linear-gradient(to right,rgb(156, 156, 194),rgb(218, 157, 218));
+  width: 100%;
+
+}
+.list-group{
+  background-image: linear-gradient(to right,rgb(156, 156, 194),rgb(218, 157, 218));
+  width: 100%;
+
+}
+}
